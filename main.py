@@ -27,4 +27,5 @@ porc_40 = quant_40 * 100 / len(arquivo)
 data_admissao = arquivo.query('DATA_ADMISSAO == "2012-06-15" and DATA_DESLIGAMENTO == "2012-12-04"')
 
 print(data_admissao)
+print(anas)
 
